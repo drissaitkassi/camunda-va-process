@@ -1,0 +1,20 @@
+{
+  "components": [
+    {
+      "action": "submit",
+      "label": "valier",
+      "type": "button",
+      "id": "Field_1jeon86",
+      "key": "field_071hl6i"
+    }
+  ],
+  "type": "default",
+  "id": "form2",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.8.0"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.18.0",
+  "schemaVersion": 7
+}

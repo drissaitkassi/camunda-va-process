@@ -1,0 +1,20 @@
+{
+  "components": [
+    {
+      "action": "submit",
+      "label": "valider ihbach",
+      "type": "button",
+      "id": "Field_1i97gdb",
+      "key": "field_1rzkmdw"
+    }
+  ],
+  "type": "default",
+  "id": "Form_1kejzy2",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.8.0"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.18.0",
+  "schemaVersion": 7
+}

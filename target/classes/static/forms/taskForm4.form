@@ -1,0 +1,20 @@
+{
+  "components": [
+    {
+      "label": "desision N2",
+      "type": "textfield",
+      "id": "Field_0ary2wp",
+      "key": "formVariable4",
+      "description": "desision gc"
+    }
+  ],
+  "type": "default",
+  "id": "taskForm4",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.8.0"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.18.0",
+  "schemaVersion": 7
+}

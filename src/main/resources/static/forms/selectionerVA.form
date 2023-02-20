@@ -1,0 +1,20 @@
+{
+  "components": [
+    {
+      "action": "submit",
+      "label": "selectionerVA",
+      "type": "button",
+      "id": "Field_0im8256",
+      "key": "field_1ju3632"
+    }
+  ],
+  "type": "default",
+  "id": "Form_18kxt1b",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.8.0"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.18.0",
+  "schemaVersion": 7
+}

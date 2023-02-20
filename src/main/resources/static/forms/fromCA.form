@@ -1,0 +1,60 @@
+{
+  "components": [
+    {
+      "label": "numero de compte",
+      "type": "textfield",
+      "id": "Field_1cr57wr",
+      "key": "compteClient",
+      "description": "compte a ébiter",
+      "validate": {
+        "required": true
+      }
+    },
+    {
+      "label": "montant virement",
+      "type": "textfield",
+      "id": "Field_0ahgyar",
+      "key": "montantVA",
+      "description": "montant globale du vrt auto",
+      "validate": {
+        "required": true
+      }
+    },
+    {
+      "label": "date vrt auto",
+      "type": "textfield",
+      "id": "Field_0icbbga",
+      "key": "periodVA",
+      "description": "period vrt",
+      "validate": {
+        "required": true
+      }
+    },
+    {
+      "values": [
+        {
+          "label": "Signature Conforme",
+          "value": "signature conforme"
+        },
+        {
+          "label": "cachet Conforme",
+          "value": "cachet conforme"
+        }
+      ],
+      "label": "Conformité",
+      "type": "checklist",
+      "id": "Field_18v1zwt",
+      "key": "cachetSignature",
+      "description": "verification signature cachet"
+    }
+  ],
+  "type": "default",
+  "id": "form1",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.8.0"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.18.0",
+  "schemaVersion": 7
+}

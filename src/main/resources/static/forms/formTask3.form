@@ -1,0 +1,20 @@
+{
+  "components": [
+    {
+      "action": "submit",
+      "label": "Button",
+      "type": "button",
+      "id": "Field_0p81tdl",
+      "key": "field_1i3b3lw"
+    }
+  ],
+  "type": "default",
+  "id": "formTask3",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.8.0"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.18.0",
+  "schemaVersion": 7
+}

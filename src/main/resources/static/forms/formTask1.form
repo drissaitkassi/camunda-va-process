@@ -1,0 +1,20 @@
+{
+  "components": [
+    {
+      "label": "task 1",
+      "type": "textfield",
+      "id": "Field_18dvzot",
+      "key": "taskvariable",
+      "description": "test tas"
+    }
+  ],
+  "type": "default",
+  "id": "formTask1",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.8.0"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.18.0",
+  "schemaVersion": 7
+}

@@ -1,0 +1,20 @@
+{
+  "components": [
+    {
+      "action": "submit",
+      "label": "inititier demande VA",
+      "type": "button",
+      "id": "Field_1a9ahhx",
+      "key": "field_0qs3mcl"
+    }
+  ],
+  "type": "default",
+  "id": "formINIT",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.8.0"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.18.0",
+  "schemaVersion": 7
+}
