@@ -1,0 +1,20 @@
+{
+  "components": [
+    {
+      "label": "testform",
+      "type": "textfield",
+      "id": "Field_03q30l1",
+      "key": "taskVar",
+      "description": "testform"
+    }
+  ],
+  "type": "default",
+  "id": "formTest",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.8.0"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.18.0",
+  "schemaVersion": 7
+}
