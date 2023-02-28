@@ -4,7 +4,7 @@
       "label": "desision N2",
       "type": "textfield",
       "id": "Field_0ary2wp",
-      "key": "formVariable4",
+      "key": "taskVariable",
       "description": "desision gc"
     }
   ],

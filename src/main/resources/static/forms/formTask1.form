@@ -1,11 +1,58 @@
 {
   "components": [
     {
-      "label": "task 1",
+      "label": "Numero de compte ",
       "type": "textfield",
-      "id": "Field_18dvzot",
-      "key": "taskvariable",
-      "description": "test tas"
+      "id": "Field_0mmq3tp",
+      "key": "num_compte",
+      "description": "compte  débiter"
+    },
+    {
+      "label": "period virement",
+      "type": "textfield",
+      "id": "Field_0x9j9qe",
+      "key": "date_vrt",
+      "description": "period du virement"
+    },
+    {
+      "label": "Montant Virement",
+      "type": "textfield",
+      "id": "Field_1m6h5g8",
+      "key": "montant_virement",
+      "description": "montant a debiter"
+    },
+    {
+      "label": "Nombre Bénificiaire",
+      "type": "textfield",
+      "id": "Field_1hw15j5",
+      "key": "nombre_benificiaire",
+      "description": "nobre de bénificiaire"
+    },
+    {
+      "values": [
+        {
+          "label": "Value",
+          "value": "value"
+        }
+      ],
+      "label": "borderaux cacheter",
+      "type": "radio",
+      "id": "Field_026sl0q",
+      "key": "borderaux_cacheter",
+      "description": "verifier cachet"
+    },
+    {
+      "values": [
+        {
+          "label": "Value",
+          "value": "value"
+        }
+      ],
+      "label": "Signature Coforme",
+      "type": "radio",
+      "id": "Field_032oupw",
+      "key": "signature_conforme",
+      "description": "verifier Signature"
     }
   ],
   "type": "default",
