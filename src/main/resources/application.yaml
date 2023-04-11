@@ -4,6 +4,7 @@ camunda.bpm.admin-user:
   id: demo
   password: demo
 
+
 camunda.bpm:
   deployment-resource-pattern:
     - classpath*:**/*.bpmn
